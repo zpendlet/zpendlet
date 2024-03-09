@@ -18,7 +18,7 @@ I'm Zoe, a student programmer based in Tennessee.
 
 ## Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpendlet&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpendlet&layout=compact&theme=dark)
 
 
 
