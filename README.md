@@ -17,11 +17,11 @@ I'm Zoe, a student programmer based in Tennessee.
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?zpendlet=Zpendlet&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?zpendlet=zpendlet&show_icons=true&theme=dark)
 
 ## Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zpendlet=Zpendlet&layout=compact&theme=dark)](https://github.com/Zpendlete/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zpendlet=zpendlet&layout=compact&theme=dark)](https://github.com/Zpendlete/github-readme-stats)
 
 
 
