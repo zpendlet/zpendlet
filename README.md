@@ -15,13 +15,10 @@ I'm Zoe, a student programmer based in Tennessee.
 - [LinkedIn](https://www.linkedin.com/in/zoe-pendleton-96a2742b5/)
 - [Portfolio](https://zpendlet.github.io/PortfolioWebsite/)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zpendlet&show_icons=true&theme=dark)
 
 ## Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpendlet&layout=compact&theme=dark)](https://github.com/zpendlet/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpendlet&layout=compact&theme=dark)]
 
 
 
