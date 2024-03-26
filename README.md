@@ -13,7 +13,7 @@ I'm Zoe, a student programmer based in Tennessee.
 
 - Reach me at pendletonz@etsu.edu
 - [LinkedIn](https://www.linkedin.com/in/zoe-pendleton-96a2742b5/)
-- [Portfolio](https://zpendlet.github.io/PortfolioWebsite/)
+- [Portfolio](https://zpendlet.github.io/Portfolio/)
 
 
 ## Languages and Tools
