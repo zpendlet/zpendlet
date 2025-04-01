@@ -1,19 +1,19 @@
 # 👋 Greetings!
 
-I'm Zoe, a student programmer based in Tennessee. 
+I'm Zoe, a developer based in Tennessee. 
 
 ## About Me
 
--  Currently studying at East Tennessee State University.
+-  May 2025 grad from East Tennessee State University.
 -  Holds an applied associates degree in programming.
--  Interested in learning more about data science and UI/UX.
+-  Interested in specializing in cloud computing.
 
 
 ## Let's Connect
 
-- Reach me at pendletonz@etsu.edu
+- Reach me at pendletonz@etsu.edu (school) or zep.shirley@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/zoe-pendleton-96a2742b5/)
-- [Portfolio](https://zpendlet.github.io/Portfolio/)
+- [Portfolio](https://zoeshirley.cloud)
 
 
 ## Languages and Tools
